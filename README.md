@@ -1,0 +1,4 @@
+LabelPropagation
+================
+
+SSL-LP
